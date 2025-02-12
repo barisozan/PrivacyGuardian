@@ -2,7 +2,7 @@
 
 <img src="https://github.com/alicankiraz1/PrivacyGuardian/blob/main/PrivacyGuardian.png" width="440" height="440">
 
-**PrivacyGuardian** is an AI-powered security auditing agent that analyzes PDF documents for potential sensitive data leaks and security risks. The tool extracts text from PDF files (either from local files or via a web URL), then uses advanced LLM models to provide a detailed analysis of the document’s content. It detects confidential information such as passwords, tokens, API keys, personal identifiable information (PII), and hardcoded credentials, and it assesses if sharing the document with third parties poses any risks.
+**PrivacyGuardian** is a Security AI Agent that analyzes PDF documents for potential sensitive data leaks and information security risks through the **SenecaLLM** artificial intelligence model, which is developed specifically for cybersecurity. The tool extracts text from PDF files (either local files or via a web URL) and then uses advanced LLM models to provide a detailed analysis of the document’s content. It detects confidential information such as passwords, tokens, API keys, personally identifiable information (PII), and hard-coded credentials, and evaluates whether sharing the document with third parties may pose any risk. It provides users with the analysis results along with recommendations.
 
 ## Features
 
